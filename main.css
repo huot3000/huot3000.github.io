@@ -1,5 +1,5 @@
 body {
-  font-family: Helvetica;
+  font-family: 16px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 13px;
 }
 
@@ -9,7 +9,7 @@ body {
   margin-right: 20px;
   text-align: right;
   width: 150px;
-  font-family: "Myriad Pro", "Helvetica Neue", Helvetica;
+  font-family: 16px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 #menu .title {
@@ -47,7 +47,7 @@ body {
 }
 
 #content h1, #content h2, #content h3 {
-  font-family: "Myriad Pro", "Helvetica Neue", Helvetica;
+  font-family: 16px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
 }
 
